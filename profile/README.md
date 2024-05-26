@@ -1,6 +1,6 @@
 # ADCLabs: Advanced Decentralized Cryptography Labs
 
-<img src="./adclabs-readme-bg.jpg" width=800px height=200px>
+<img src="https://raw.githubusercontent.com/adclabs/.github/main/profile/adclabs-readme-bg.jpg">
 <br>
 Welcome to ADCLabs! We are a decentralized organization dedicated to pioneering the forefront of technological advancements in the Web3 world. Our focus is on the latest innovations in decentralized cryptography, aiming to explore and develop new ideas that will shape the future of the Web3 space. Our mission is to make these cutting-edge technologies accessible and understandable for everyone, fostering a permissionless and decentralized environment that empowers individuals and communities.
 
